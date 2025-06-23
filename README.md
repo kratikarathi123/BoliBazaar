@@ -2,6 +2,9 @@
 
 A modern auction platform with voice-powered bidding capabilities built with Django.
 
+## 🎥 Demo Video
+[![BoliBazaar Demo](https://img.youtube.com/vi/Znipo2gjlhw/0.jpg)](https://www.youtube.com/watch?v=Znipo2gjlhw)
+
 ## 🎯 Features
 
 ### User Roles
